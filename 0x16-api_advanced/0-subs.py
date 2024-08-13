@@ -1,4 +1,4 @@
-CC#!/usr/bin/python3
+#!/usr/bin/python3
 
 """
 Function to query the  subscribers on a given Reddit subreddit api
